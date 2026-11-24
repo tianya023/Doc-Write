@@ -1,0 +1,4 @@
+interface:
+  display_name: "Doc-Write"
+  short_description: "创作与续写中文医疗小说，编排病房群像、医院职场与医学史故事"
+  default_prompt: "用 $doc-write 写一个中文医疗小说开场，从一次被病人纠正的夜班交接写起。"
